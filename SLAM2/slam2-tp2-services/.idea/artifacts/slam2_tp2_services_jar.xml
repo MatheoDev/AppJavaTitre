@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="slam2-tp2-services:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/slam2_tp2_services_jar</output-path>
+    <root id="archive" name="slam2-tp2-services.jar">
+      <element id="module-output" name="slam2-tp2-services" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../slam2-tp2-domaine.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
