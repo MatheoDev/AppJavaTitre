@@ -3,7 +3,7 @@ package tp2_titre.matheo.deknuydt.domaine;
 public class Titre {
     private int repere;
     private String libelle;
-    private String categorie;
+    private Categorie categorie;
 
     public Titre(int prepere, String plibelle) {
         this.repere = prepere;
@@ -18,9 +18,7 @@ public class Titre {
         return this.libelle;
     }
 
-    public String getCategorie() {
-        return this.categorie;
-    }
+    public Categorie getCategorie() { return this.categorie; }
 
     public void setRepere(int prepere) {
         this.repere = prepere;
@@ -30,7 +28,7 @@ public class Titre {
         this.libelle = plibelle;
     }
 
-    public void setCategorie(String pcategorie) {
+    public void setCategorie(Categorie pcategorie) {
         this.categorie = pcategorie;
     }
 }
