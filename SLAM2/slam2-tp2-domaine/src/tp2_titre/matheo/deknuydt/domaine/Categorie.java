@@ -1,11 +1,14 @@
 package tp2_titre.matheo.deknuydt.domaine;
 
+import tp2_titre.domaine.utilitaires.GenereIds;
+
 public class Categorie {
     private int id;
     private String libelle;
     private String abreviation;
 
     public Categorie(String plibelle, String pabreviation) {
+        this.id = GenereIds.getId();
         this.libelle = plibelle;
         this.abreviation = pabreviation;
     }

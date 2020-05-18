@@ -25,25 +25,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69a5f66d-111e-477a-b860-c67bdc20605b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../slam2-tp2-domaine/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-applis.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-applis/.idea/artifacts/slam2_tp2_applis_jar2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-applis/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-applis/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-applis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-applis/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-applis/out/production/slam2-tp2-applis/tp2_titres/matheo/deknuydt/programs/ProgrammePrincipalV_1_0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-applis/slam2-tp2-applis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-applis/slam2-tp2-applis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-domaine.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-domaine.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-domaine/.idea/artifacts/slam2_tp2_domaine_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-domaine/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-domaine/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../slam2-tp2-domaine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-domaine/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-domaine/out/artifacts/slam2_tp2_domaine_jar/slam2-tp2-domaine.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-domaine/out/artifacts/slam2_tp2_domaine_jar/slam2-tp2-domaine.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-domaine/out/production/slam2-tp2-domaine/tp2_titre/matheo/deknuydt/domaine/Titre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-domaine/out/production/slam2-tp2-domaine/tp2_titre/matheo/deknuydt/domaine/Titre.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../slam2-tp2-domaine/slam2-tp2-domaine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-domaine/slam2-tp2-domaine.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slam2-tp2-services.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-services.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slam2-tp2-domaine/src/tp2_titre/matheo/deknuydt/domaine/Categorie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-domaine/src/tp2_titre/matheo/deknuydt/domaine/Categorie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slam2-tp2-domaine/src/tp2_titre/matheo/deknuydt/domaine/Titre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../slam2-tp2-domaine/src/tp2_titre/matheo/deknuydt/domaine/Titre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slam2-tp2-services.iml" beforeDir="false" afterPath="$PROJECT_DIR$/slam2-tp2-services.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +58,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../slam2-tp2-domaine.jar!/" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../slam2-tp2-domaine" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -88,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585728859550</updated>
       <workItem from="1587905633598" duration="296000" />
+      <workItem from="1589185405918" duration="2403000" />
     </task>
     <servers />
   </component>
@@ -104,18 +97,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="177" width="643" height="508" key="FileChooserDialogImpl" timestamp="1587905821058">
+    <state x="572" y="177" width="643" height="508" key="FileChooserDialogImpl" timestamp="1589186803272">
       <screen x="0" y="0" width="1600" height="871" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586176583132" />
-    <state x="572" y="177" width="643" height="508" key="FileChooserDialogImpl/0.0.1600.871@0.0.1600.871" timestamp="1587905821058" />
-    <state x="259" y="0" width="1030" height="842" key="SettingsEditor" timestamp="1587905845143">
+    <state x="572" y="177" width="643" height="508" key="FileChooserDialogImpl/0.0.1600.871@0.0.1600.871" timestamp="1589186803272" />
+    <state x="259" y="0" width="1030" height="842" key="SettingsEditor" timestamp="1589187576385">
       <screen x="0" y="0" width="1600" height="871" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586176495646" />
-    <state x="259" y="0" width="1030" height="842" key="SettingsEditor/0.0.1600.871@0.0.1600.871" timestamp="1587905845143" />
+    <state x="259" y="0" width="1030" height="842" key="SettingsEditor/0.0.1600.871@0.0.1600.871" timestamp="1589187576385" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586169210798">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

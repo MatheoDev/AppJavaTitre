@@ -5,9 +5,10 @@ public class Titre {
     private String libelle;
     private Categorie categorie;
 
-    public Titre(int prepere, String plibelle) {
+    public Titre(int prepere, String plibelle, Categorie pcategorie) {
         this.repere = prepere;
         this.libelle = plibelle;
+        this.categorie = pcategorie;
     }
 
     public int getRepere() {
@@ -18,7 +19,7 @@ public class Titre {
         return this.libelle;
     }
 
-    public Categorie getCategorie() { return this.categorie; }
+    public String getCategorie() { return this.categorie.getLibelle(); }
 
     public void setRepere(int prepere) {
         this.repere = prepere;
